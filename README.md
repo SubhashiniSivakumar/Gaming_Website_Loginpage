@@ -1,6 +1,4 @@
-# 🎮 Gaming Website Login Page (Figma Design) � <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="30px" alt="wave">�
-
-## ✨ About the Design
+# 🎮 Gaming Website Login Page (Figma Design)
 - This project is a **Gaming Website Login Page** designed in **Figma**.  
 It is a **UI/UX design concept** focusing on simplicity and a clean login experience for gamers.
 
@@ -10,5 +8,4 @@ It is a **UI/UX design concept** focusing on simplicity and a clean login experi
 
 
 
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="30px" alt="wave">
 
