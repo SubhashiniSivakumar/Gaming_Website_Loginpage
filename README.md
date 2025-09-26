@@ -3,44 +3,18 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Design-Figma-blue?style=for-the-badge&logo=figma" />
-  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UI/UX-Creative-purple?style=for-the-badge&logo=adobe" />
 </p>
 
 ---
 
-## ✨ About the Project  
-🚀 A **modern, futuristic, and immersive login page** design for a **Gaming Website**, built in **Figma**.  
-The design focuses on:
-- 🎧 Aesthetic **VR gaming vibe** with neon gradients  
-- 🕹️ Smooth **UI/UX for gamers**  
-- 🌌 Futuristic **login & sign-in page experience**
-
+## ✨ About the Design
+- This project is a **Gaming Website Login Page** designed in **Figma**.  
+It is a **UI/UX design concept** focusing on simplicity and a clean login experience for gamers.  
 ---
 
-## 🎥 Preview  
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/00000000/demo.gif" alt="Preview Demo" width="800px"/>
-</p>
-
----
-
-## 🎨 Features
-✅ Attractive & futuristic login page  
-✅ Dark mode & neon vibes  
-✅ Responsive layout (concept)  
-✅ Gaming-focused UI components  
-
+<p align="center"> <a href="www.linkedin.com/in/subhashini-sivakumar-837277262"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a> <a href="https://github.com/SubhashiniSivakumar"><img src="https://img.shields.io/badge/GitHub-Explore-black?style=for-the-badge&logo=github"/></a> </p>
 ---
 
 ## 🛠️ Tools Used  
 - 🎨 **Figma** (UI/UX design)  
-- 🖌️ **Creative gradients & assets**  
-- 📐 Layout grids for **pixel-perfect alignment**
 
----
-
-## 🚀 How to Use  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-username/gaming-login-page.git
