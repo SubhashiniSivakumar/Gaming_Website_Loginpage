@@ -9,5 +9,6 @@ It is a **UI/UX design concept** focusing on simplicity and a clean login experi
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rohit19060/rohit19060/master/bounce.gif" width="300px" alt="Bouncing Emojis"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=00F707&size=22&center=true&vCenter=true&width=600&lines=🎮+Welcome+to+the+Gaming+Login+Page;🚀+Designed+in+Figma;⚡+UI%2FUX+for+Gamers;👾+Login+%7C+Sign+Up+%7C+Play!" />
 </p>
+
