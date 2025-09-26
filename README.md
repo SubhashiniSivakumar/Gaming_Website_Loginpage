@@ -9,7 +9,5 @@ It is a **UI/UX design concept** focusing on simplicity and a clean login experi
 
 
 <p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6">
-    🎮 👾 🎧 🕹️ ⚡ 🚀 🌌 🎨 💻
-  </marquee>
+  <img src="https://raw.githubusercontent.com/rohit19060/rohit19060/master/bounce.gif" width="300px" alt="Bouncing Emojis"/>
 </p>
